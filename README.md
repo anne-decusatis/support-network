@@ -7,3 +7,7 @@ To play this game, you will need:
 - Tokens (4 per person, each person should have a unique color)
 
 Support Network is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike license. https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Art, Design: Sadie Allen, http://sadiesideas.com/
+Writing, Design: Jeff Campbel1, https://github.com/jeffcampbell
+Writing, Design: Anne DeCusatis, https://github.com/anne-decusatis
